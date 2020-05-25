@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market);')
+body{
+	
+  text-align:center;
+  background-color: #fff;
+  font-family:  'Chelsea Market', cursive;;
+}
+hr{
+  width:200px;
+}
+p{
+   font-family: palatino, georgia, serif;
+   line-height: 1.5em;
+   margin: 2em;
+  font-size:22px;
+}
