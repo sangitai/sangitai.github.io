@@ -1,9 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market);')
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market');
 body{
 	
   text-align:center;
   background-color: #fff;
-  font-family:  'Chelsea Market', cursive;;
+  font-family:  'Chelsea Market', cursive;
+}
+h1{
+	text-align:center; 
 }
 hr{
   width:200px;
