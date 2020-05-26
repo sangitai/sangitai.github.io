@@ -11,9 +11,20 @@ hr{
 }
 p {
  
-   font-family: times new roman,arial.sans-serif;
+   font-family: times new roman;
    font-size: 18px;
    line-height: 1.5em;
    margin: 2em;
+}
+
+#second
+p
+{
+	font-family: arial;
+}
+
+#third
+p{
+	font-family: arial;
 }
 
