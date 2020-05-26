@@ -1,15 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed');
 h1{
-	text-align:center;
-	font-family: 'Roboto Condense d',sans-serif;
+	text-align: justify;
+	font-style: : 'Roboto Condense d',sans-serif;
 }
 hr{
   width:200px;
 }
 p{
-   text-align: center;
-   font-family: 'Roboto Condense d', sans-serif;
+   text-align: justify;
+   font-style: : 'Roboto Condense d', sans-serif;
    line-height: 1.5em;
    margin: 2em;
   font-size:30px;
 }
+
