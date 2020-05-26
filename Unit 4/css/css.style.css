@@ -1,16 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed');
 body{
-	text-align: left;
+	text-align: right;
 	font-style: : 'Roboto Condensed',sans-serif;
+	line-height: 1.5em;
+   margin: 2em;
+  font-size:30px;
 }
 hr{
   width:200px;
 }
 p{
-   text-align: left;
+   text-align: right;
    font-style: : 'Roboto Condensed', sans-serif;
    line-height: 1.5em;
    margin: 2em;
   font-size:30px;
 }
-#
+
