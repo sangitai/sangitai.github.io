@@ -1,19 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,700&display=swap');
 body{
 	
-  text-align:right;
+  text-align:center;
   background-color: #fff;
-  font-family:  'Chelsea Market', cursive;
+  font-family:  'Roboto Condense d', sans-serif;
 }
 h1{
-	text-align:right; 
+	text-align:center; 
 }
 hr{
   width:200px;
 }
 p{
-   font-family: palatino, georgia, serif;
+   font-family: 'Roboto Condense d', sans-serif;
    line-height: 1.5em;
    margin: 2em;
-  font-size:28px;
+  font-size:30px;
 }
