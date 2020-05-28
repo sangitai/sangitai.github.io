@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed');
+h1 {
+	text-align: center;
+	font-family:'Roboto Condensed',sans-serif;
+	line-height: 1.5em;
+   margin: 2em;
+  font-size:30px;
+}
+hr{
+  width:200px;
+}
+p {
+ 
+   font-family: times new roman,arial.arial;
+   font-size: 18px;
+   line-height: 1.5em;
+   margin: 2em;
+}
+
+header{
+  background-color: #FFED74
+}
+nav{
+  background-color: #E8C66A
+}
+aside{
+  background-color: #FFC675
+}
+article{
+  background-color: #E89C6C
+}
+footer{
+  background-color: #FF957E
+}
+div/section{
+  background-color: #FFE2B8
+}
+
