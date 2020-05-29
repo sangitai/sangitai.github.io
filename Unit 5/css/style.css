@@ -18,6 +18,13 @@ p {
    margin: 2em;
 }
 
+center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 footer{
   text-align: center;
   padding: 1em 0;
@@ -33,7 +40,6 @@ nav{
 }
 
 article{
-  text-align: center;
   background-color: #E89C6C;
 }
 footer{
