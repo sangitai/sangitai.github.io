@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed');
 h1 {
-	text-align: center;
+	
 	font-family:'Roboto Condensed',sans-serif;
 	line-height: 1.5em;
    margin: 2em;
@@ -11,28 +11,34 @@ hr{
 }
 p {
  
-   font-family: times new roman,arial.arial;
+   font-family: times new roman;
    font-size: 18px;
    line-height: 1.5em;
    margin: 2em;
 }
 
+footer{
+  text-align: center;
+  padding: 1em 0;
+}
+
 header{
-  background-color: #FFED74
+  background-color: #FFED74;
+  border: 1px black solid;
+  padding :20px;
 }
 nav{
-  background-color: #E8C66A
+  background-color: #E8C66A;
 }
-aside{
-  background-color: #FFC675
-}
+
 article{
-  background-color: #E89C6C
+  background-color: #E89C6C;
 }
 footer{
-  background-color: #FF957E
+  background-color: #FF957E;
+
 }
-div/section{
-  background-color: #FFE2B8
+div{
+  background-color: #FFE2B8;
 }
 
