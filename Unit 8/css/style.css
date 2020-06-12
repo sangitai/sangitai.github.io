@@ -82,14 +82,15 @@ div{
   background-color: #FFE2B8;
 }
 
-@media (max-width: 800px){
-  nav{
-    float: none;
+@media only screen and (max-width: 800px){
+  h1,nav{
+    display: block;
+    text-align: center;
   }
 }
 
 img{
-  width: 230px;
+  width: 300px;
 }
 
 #about {
