@@ -94,7 +94,7 @@ div{
   p,ul{
     margin: 1.8em .6em 0;
   }
-  li{
+  article{
     width: 80%;
     outline-width: .5em;
     padding: .5em;
