@@ -81,8 +81,22 @@ footer{
 }
 div{
   background-color: #FFE2B8;
-  width: 1024px;
+  width: 100%;
 }
 
+@media screen only and (min-width: 500px) {
+body {
+font-size: 12px;
+}
+
+body {
+font-size: 10px;
+}
+
+.em-unit {
+background-color: #FF6A5E;
+width: 4em;
+height: 2em;
+}
 
 
